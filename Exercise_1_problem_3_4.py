@@ -11,7 +11,7 @@
 # YOUR CODE HERE 1 to read the file
 #raise NotImplementedError()
 import pandas as pd 
-
+fp = r"data/travelTimes_2015_Helsinki.txt"
 #Check how many rows and columns there are:
 data
 
